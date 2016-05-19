@@ -12,8 +12,8 @@ Pod::Spec.new do |s|
 
   s.source       = { :git => "https://github.com/zhangjiang1203/iOS_Category.git", :tag => "0.0.3" }
   s.source_files  = "Classes", "**/**/*.{h,m}"
-  s.exclude_files = "Classes/Exclude"
-  s.public_header_files = "Foundation/Foundation_Category.h","UIKit/UI_Categories.h","**/*.h"
+  # s.exclude_files = "Classes/Exclude"
+  # s.public_header_files = "Foundation/Foundation_Category.h","UIKit/UI_Categories.h","**/*.h"
   s.frameworks = "UIKit", "Foundation"
   s.requires_arc = true
   s.dependency "pop", '~> 1.0.9'

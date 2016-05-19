@@ -8,7 +8,7 @@
 
 #import "UIView+PopViewAnimation.h"
 #import <objc/runtime.h>
-
+#import <pop/POP.h>
 static const char popAnimation;
 @implementation UIView (PopViewAnimation)
 
