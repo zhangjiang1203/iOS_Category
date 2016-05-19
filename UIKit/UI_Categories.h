@@ -36,6 +36,9 @@
 #import "UIImage+RoundedCorner.h"
 #import "ZJAlertViewController.h"
 #import "UIView+MBIBnspectable.h"
+#import "UIView+PopViewAnimation.h"
+#import "UITableView+LoadAnimation.h"
+
 
 /**
  *  添加的子类，用于在XIb和SB中实现实时渲染控件
