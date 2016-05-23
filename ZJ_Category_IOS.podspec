@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   # s.public_header_files = "Foundation/Foundation_Category.h","UIKit/UI_Categories.h","**/*.h"
   s.frameworks = "UIKit", "Foundation"
   s.requires_arc = true
-  s.dependency "pop", '~> 1.0.9'
+  # s.dependency "pop", '~> 1.0.9'
 
 
 end

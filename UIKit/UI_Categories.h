@@ -36,7 +36,6 @@
 #import "UIImage+RoundedCorner.h"
 #import "ZJAlertViewController.h"
 #import "UIView+MBIBnspectable.h"
-#import "UIView+PopViewAnimation.h"
 #import "UITableView+LoadAnimation.h"
 
 
